@@ -1,0 +1,16 @@
+PODS:
+  - xhwXNIMDemo (0.1.0)
+
+DEPENDENCIES:
+  - xhwXNIMDemo (from `Lib/xhwXNIMDemo`)
+
+EXTERNAL SOURCES:
+  xhwXNIMDemo:
+    :path: Lib/xhwXNIMDemo
+
+SPEC CHECKSUMS:
+  xhwXNIMDemo: d6c9a6c06b67b5473b737498cc7e8d6f17f5ef52
+
+PODFILE CHECKSUM: d7cbe056cacf574d30fd5b84914a3670c3017d17
+
+COCOAPODS: 1.7.2
